@@ -1,7 +1,7 @@
 - 👋 Oi, sou @MarcellaSilva03
-- 👀 I’m interested in tecnolog
-- 🌱 I’m currently learning romanc
-- 📫 How to reach me @_marcrazy (instagram)
+- 👀 Tenho bastante interesse em inovações
+- 🌱 No momento estou aprendendo programção em python
+- 📫 Como me achar... @_marcrazy (instagram)
 
 <!---
 MarcellaSilva03/MarcellaSilva03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
